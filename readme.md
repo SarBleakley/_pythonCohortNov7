@@ -1,4 +1,4 @@
-#This is the repository for the September Python cohort.
+#This is the repository for the November Python cohort.
 ##Git Work Flow:
 
 1. Work on your assignments.
